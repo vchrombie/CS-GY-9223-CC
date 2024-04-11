@@ -15,6 +15,14 @@ deploying a webapp on kubernetes using docker containers
 
 [vchrombie/webapp-docker-k8s](https://github.com/vchrombie/webapp-docker-k8s)
 
+- [Homework Assignment 3](https://github.com/vchrombie/photo-album-app/blob/master/CC_Fall23_Assignment3.pdf)
+
+photo album application
+
+[vchrombie/photo-album-app](https://github.com/vchrombie/photo-album-app)
+
 ### Quiz
 
-- [Quiz 1](./Quiz%201%20-%20Cloud%20Computing%20Fall23.pdf)
+- [Quiz 1](./Fall2023-Quiz1.pdf)
+
+- [Quiz 2](./Fall2023-Quiz2.pdf)
